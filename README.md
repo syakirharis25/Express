@@ -27,7 +27,7 @@ Stack Overflow questions and answer website : https://stackoverflow.com <br />
 ## 3. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
-$ git clone https://github.com/syakirharis25/Express.js.git
+$ git clone https://github.com/syakirharis25/Express.git
 $ cd Express/
 $ git remote -v
 $ git status
