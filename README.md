@@ -23,6 +23,9 @@ W3Schools educational website : https://www.w3schools.com <br />
 TutorialsTeacher educational website : https://www.tutorialsteacher.com <br />
 Stack Overflow questions and answer website : https://stackoverflow.com <br />
 
+**_Express related technologies_**
+Node Version Manager : https://github.com/nvm-sh/nvm <br />
+ 
 <a name="github"></a>
 ## 3. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
