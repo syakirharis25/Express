@@ -23,7 +23,7 @@ W3Schools educational website : https://www.w3schools.com <br />
 TutorialsTeacher educational website : https://www.tutorialsteacher.com <br />
 Stack Overflow questions and answer website : https://stackoverflow.com <br />
 
-**_Express related technologies_**
+**_Express related technologies_** <br />
 Node Version Manager : https://github.com/nvm-sh/nvm <br />
  
 <a name="github"></a>
