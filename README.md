@@ -26,12 +26,29 @@ W3Schools educational website : https://www.w3schools.com <br />
 TutorialsTeacher educational website : https://www.tutorialsteacher.com <br />
 Stack Overflow questions and answer website : https://stackoverflow.com <br />
 
+**_Express documentation by expressjs.com_** <br />
+Using middleware by expressjs.com : https://expressjs.com/en/guide/using-middleware.html <br />
+Routing by expressjs.com : https://expressjs.com/en/guide/routing.html <br />
+body-parser by expressjs.com : https://expressjs.com/en/resources/middleware/body-parser.html <br />
+
 **_Express related technologies_** <br />
 Node Version Manager : https://github.com/nvm-sh/nvm <br />
 
+**_Express questions and answers by Stack Overflow_** <br />
+req.query and req.param in ExpressJS by Stack Overflow : https://stackoverflow.com/questions/18524125/req-query-and-req-param-in-expressjs <br />
+nodemon not working: -bash: nodemon: command not found by Stack Overflow : https://stackoverflow.com/questions/35530930/nodemon-not-working-bash-nodemon-command-not-found <br />
+NodeJS / Express: what is “app.use”? by Stack Overflow : https://stackoverflow.com/questions/11321635/nodejs-express-what-is-app-use <br />
+What are express.json() and express.urlencoded()? by Stack Overflow : https://stackoverflow.com/questions/23259168/what-are-express-json-and-express-urlencoded/51844327 <br />
+
 **_Express related articles_** <br />
 Restart Your Node.js Apps Automatically Using nodemon by alligator.io : https://alligator.io/workflow/nodemon/ <br />
-nodemon not working: -bash: nodemon: command not found by Stack Overflow : https://stackoverflow.com/questions/35530930/nodemon-not-working-bash-nodemon-command-not-found <br />
+res.json() vs res.send() vs res.end() in Express by d by Tamas Piros : https://blog.fullstacktraining.com/res-json-vs-res-send-vs-res-end-in-express/ <br />
+What is an ORM and Why You Should Use it by Mario Hoyos : https://blog.bitsrc.io/what-is-an-orm-and-why-you-should-use-it-b2b6f75f5e2a <br />
+
+**_Express developers_**
+ Express was created by TJ Holowaychuk : https://github.com/tj <br />
+ Tamas Piros : https://github.com/tamaspiros <br />
+ Mario Hoyos : https://github.com/mariohoyos92 <br />
  
 <a name="github"></a>
 ## 3. GitHub notes.
