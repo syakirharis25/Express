@@ -28,6 +28,9 @@ Stack Overflow questions and answer website : https://stackoverflow.com <br />
 
 **_Express related technologies_** <br />
 Node Version Manager : https://github.com/nvm-sh/nvm <br />
+
+**_Express related articles_** <br />
+Restart Your Node.js Apps Automatically Using nodemon by alligator.io : https://alligator.io/workflow/nodemon/ <br />
  
 <a name="github"></a>
 ## 3. GitHub notes.
