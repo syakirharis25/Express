@@ -37,6 +37,7 @@ Node Version Manager : https://github.com/nvm-sh/nvm <br />
 req.query and req.param in ExpressJS by Stack Overflow : https://stackoverflow.com/questions/18524125/req-query-and-req-param-in-expressjs <br />
 nodemon not working: -bash: nodemon: command not found by Stack Overflow : https://stackoverflow.com/questions/35530930/nodemon-not-working-bash-nodemon-command-not-found <br />
 NodeJS / Express: what is “app.use”? by Stack Overflow : https://stackoverflow.com/questions/11321635/nodejs-express-what-is-app-use <br />
+What are express.json() and express.urlencoded()? by Stack Overflow : https://stackoverflow.com/questions/23259168/what-are-express-json-and-express-urlencoded/51844327 <br />
 
 **_Express related articles_** <br />
 Restart Your Node.js Apps Automatically Using nodemon by alligator.io : https://alligator.io/workflow/nodemon/ <br />
