@@ -33,6 +33,7 @@ body-parser by expressjs.com : https://expressjs.com/en/resources/middleware/bod
 
 **_Express related technologies_** <br />
 Node Version Manager : https://github.com/nvm-sh/nvm <br />
+Passport : http://www.passportjs.org/ <br />
 
 **_Express questions and answers by Stack Overflow_** <br />
 req.query and req.param in ExpressJS by Stack Overflow : https://stackoverflow.com/questions/18524125/req-query-and-req-param-in-expressjs <br />
