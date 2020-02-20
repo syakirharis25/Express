@@ -31,6 +31,7 @@ Node Version Manager : https://github.com/nvm-sh/nvm <br />
 
 **_Express related articles_** <br />
 Restart Your Node.js Apps Automatically Using nodemon by alligator.io : https://alligator.io/workflow/nodemon/ <br />
+nodemon not working: -bash: nodemon: command not found by Stack Overflow : https://stackoverflow.com/questions/35530930/nodemon-not-working-bash-nodemon-command-not-found <br />
  
 <a name="github"></a>
 ## 3. GitHub notes.
