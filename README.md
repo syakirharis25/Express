@@ -45,6 +45,9 @@ Restart Your Node.js Apps Automatically Using nodemon by alligator.io : https://
 res.json() vs res.send() vs res.end() in Express by d by Tamas Piros : https://blog.fullstacktraining.com/res-json-vs-res-send-vs-res-end-in-express/ <br />
 What is an ORM and Why You Should Use it by Mario Hoyos : https://blog.bitsrc.io/what-is-an-orm-and-why-you-should-use-it-b2b6f75f5e2a <br />
 
+**_Express related projects_** <br />
+Express Handlebars : https://github.com/ericf/express-handlebars <br />
+
 **_Express developers_**
  Express was created by TJ Holowaychuk : https://github.com/tj <br />
  Tamas Piros : https://github.com/tamaspiros <br />
