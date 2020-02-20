@@ -1,0 +1,27 @@
+{
+  "name": "Express",
+  "version": "1.0.0",
+  "description": "My works related to Express web application framework for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syakirharis25/Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syakirharis25/Express/issues"
+  },
+  "homepage": "https://github.com/syakirharis25/Express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
