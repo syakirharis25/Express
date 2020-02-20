@@ -39,6 +39,11 @@ NodeJS / Express: what is “app.use”? by Stack Overflow : https://stackoverfl
 
 **_Express related articles_** <br />
 Restart Your Node.js Apps Automatically Using nodemon by alligator.io : https://alligator.io/workflow/nodemon/ <br />
+res.json() vs res.send() vs res.end() in Express by d by Tamas Piros : https://blog.fullstacktraining.com/res-json-vs-res-send-vs-res-end-in-express/ <br />
+
+**_Express developers_**
+ Express was created by TJ Holowaychuk : https://github.com/tj <br />
+ Tamas Piros : https://github.com/tamaspiros <br />
  
 <a name="github"></a>
 ## 3. GitHub notes.
