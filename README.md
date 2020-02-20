@@ -43,10 +43,12 @@ What are express.json() and express.urlencoded()? by Stack Overflow : https://st
 **_Express related articles_** <br />
 Restart Your Node.js Apps Automatically Using nodemon by alligator.io : https://alligator.io/workflow/nodemon/ <br />
 res.json() vs res.send() vs res.end() in Express by d by Tamas Piros : https://blog.fullstacktraining.com/res-json-vs-res-send-vs-res-end-in-express/ <br />
+What is an ORM and Why You Should Use it by Mario Hoyos : https://blog.bitsrc.io/what-is-an-orm-and-why-you-should-use-it-b2b6f75f5e2a <br />
 
 **_Express developers_**
  Express was created by TJ Holowaychuk : https://github.com/tj <br />
  Tamas Piros : https://github.com/tamaspiros <br />
+ Mario Hoyos : https://github.com/mariohoyos92 <br />
  
 <a name="github"></a>
 ## 3. GitHub notes.
