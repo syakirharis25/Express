@@ -30,6 +30,7 @@ Stack Overflow questions and answer website : https://stackoverflow.com <br />
 Using middleware by expressjs.com : https://expressjs.com/en/guide/using-middleware.html <br />
 Routing by expressjs.com : https://expressjs.com/en/guide/routing.html <br />
 body-parser by expressjs.com : https://expressjs.com/en/resources/middleware/body-parser.html <br />
+Serving static files in Express by expressjs.com : https://expressjs.com/en/starter/static-files.html <br />
 
 **_Express related technologies_** <br />
 Node Version Manager : https://github.com/nvm-sh/nvm <br />
