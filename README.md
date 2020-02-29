@@ -19,7 +19,7 @@ The original author, TJ Holowaychuk, described it as a Sinatra-inspired server, 
 In June 2014, rights to manage the project were acquired by StrongLoop. StrongLoop was acquired by IBM in September 2015; in January 2016, IBM announced that it would place Express.js under the stewardship of the Node.js Foundation incubator.
 
 <a name="references"></a>
-## 2. Official references websites. <br />
+## 2. Official references websites.
 Express official website : https://expressjs.com <br />
 
 W3Schools educational website : https://www.w3schools.com <br />
