@@ -4,8 +4,9 @@ My works related to Express web application framework for Node.js
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
-4. [GitHub repository calculation.](#calculation)
+3. [Express developers.](developers)
+4. [GitHub notes.](#github)
+5. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -50,13 +51,14 @@ What is an ORM and Why You Should Use it by Mario Hoyos : https://blog.bitsrc.io
 **_Express related projects_** <br />
 Express Handlebars : https://github.com/ericf/express-handlebars <br />
 
-**_Express developers_**
- Express was created by TJ Holowaychuk : https://github.com/tj <br />
- Tamas Piros : https://github.com/tamaspiros <br />
- Mario Hoyos : https://github.com/mariohoyos92 <br />
+<a name="developers"></a>
+## 3. Express developers.
+Express was created by TJ Holowaychuk : https://github.com/tj <br />
+Mario Hoyos : https://github.com/mariohoyos92 <br />
+Tamas Piros : https://github.com/tamaspiros <br />
  
 <a name="github"></a>
-## 3. GitHub notes.
+## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Express.git
@@ -66,7 +68,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 4. GitHub repository calculation.
+## 5. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
